@@ -1,0 +1,16 @@
+name: Auto Assign
+on:
+  issues:
+    types: [opened]
+  # To fix the HttpError: Resource not accessible by integration (use this instead of 'pull_request')
+  pull_request_target:
+    types: [opened]
+  push:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wow-actions/auto-assign@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONFIG_FILE: .github/auto-assign.yml
