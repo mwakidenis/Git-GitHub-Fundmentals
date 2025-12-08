@@ -16,11 +16,11 @@
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/yfosp/start-here?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/yfosp/start-here?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/yfosp/start-here?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/yfosp/start-here?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/yfosp/start-here?style=flat&color=critical&logo=github"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/mwakidenis/Git-GitHub-Fundmentals?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/mwakidenis/Git-GitHub-Fundmentals?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/mwakidenis/Git-GitHub-Fundmentals?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/mwakidenis/Git-GitHub-Fundmentals?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/mwakidenis/Git-GitHub-Fundmentals?style=flat&color=critical&logo=github"/></td>
         </tr>
     </tbody>
 </table>
@@ -63,8 +63,8 @@ Our mission is to provide a safe space to support everyone on their journey to b
 
 > **Note**
 >
-> - [Community Website repo 🌐](https://github.com/Your-First-Open-Source-Project/main-website)
-> - [AWS Educational Resources repo ☁️](https://github.com/Your-First-Open-Source-Project/aws-resources)
+> - [Community Website repo 🌐](https://github.com/mwakidenis/Git-GitHub-Fundmentals)
+> - [AWS Educational Resources repo ☁️](https://github.com/mwakidenis/Git-GitHub-Fundmentals)
 
 ## Our Contributors ❤️
 
